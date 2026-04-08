@@ -1,0 +1,600 @@
+{
+  "business": {
+    "name": "Elkhorn Landscaping & Lawn Care",
+    "phone": "+14053086032",
+    "category": "hardscaping contractor",
+    "city": "Oklahoma City",
+    "state": "OK"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Oklahoma City Hardscaping Pros",
+      "heroSubline": "Transforming OKC properties with durable, beautiful hardscapes. Expert design & installation.",
+      "aboutTitle": "Built on Oklahoma Roots",
+      "aboutText": [
+        "Elkhorn Landscaping & Lawn Care started with a simple goal: to build exceptional outdoor spaces for our Oklahoma City neighbors. We're a family-owned and operated business, deeply rooted in the OKC community.",
+        "We believe in doing things right the first time. That means using quality materials, employing skilled craftsmen, and communicating openly with our clients throughout every project. Our reputation is built on trust and lasting results.",
+        "We're proud to contribute to the beauty and functionality of Oklahoma City. From Edmond to Moore, we're committed to enhancing local properties and building lasting relationships with our community."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Skilled hardscaping professionals delivering top-quality results."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "Using only the best materials to withstand Oklahoma's climate."
+        },
+        {
+          "title": "Custom Designs",
+          "description": "Creating unique and personalized outdoor spaces tailored to your vision."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "On-time project completion and clear communication every step of the way."
+        }
+      ],
+      "ctaHeadline": "Ready to transform your outdoor space?",
+      "ctaSubline": "Contact us today for a free consultation and quote!"
+    },
+    "services": [
+      {
+        "slug": "patio-design-installation",
+        "name": "Patio Design & Installation",
+        "shortDescription": "Crafting custom patios for outdoor living in Oklahoma City.",
+        "description": "We design and install custom patios tailored to your lifestyle and property. From flagstone to pavers, we offer a wide range of materials to complement your Oklahoma City home's aesthetic. Our team understands the challenges of OKC's climate, including the expansive clay soil. We ensure proper base preparation and drainage to prevent cracking and shifting over time. Whether you envision a cozy backyard retreat or a spacious entertaining area, we'll bring your patio dreams to life, creating a durable and beautiful space for years to come. We handle the entire process, from initial design concepts to final installation, ensuring a seamless and stress-free experience.",
+        "process": [
+          "Step 1: Site Assessment and Design Consultation",
+          "Step 2: Material Selection and Budgeting",
+          "Step 3: Site Preparation and Excavation",
+          "Step 4: Patio Installation and Finishing Touches"
+        ],
+        "benefits": [
+          "Increased property value",
+          "Enhanced outdoor living space",
+          "Customized design to fit your needs",
+          "Durable construction built to last"
+        ],
+        "faq": [
+          {
+            "question": "What materials are best for Oklahoma patios?",
+            "answer": "Flagstone, pavers, and stamped concrete are all excellent choices for OKC patios. We can help you choose the material that best suits your style, budget, and the specific conditions of your property."
+          },
+          {
+            "question": "How long does patio installation take?",
+            "answer": "The timeline depends on the size and complexity of the project, but most patio installations take between 1-2 weeks. We'll provide you with a detailed schedule during the design phase."
+          },
+          {
+            "question": "Do I need a permit for patio installation?",
+            "answer": "In some cases, a permit may be required. We'll handle all necessary permit applications and ensure that your project complies with local regulations."
+          }
+        ]
+      },
+      {
+        "slug": "retaining-wall-construction",
+        "name": "Retaining Wall Construction",
+        "shortDescription": "Building durable and functional retaining walls for OKC landscapes.",
+        "description": "Solve erosion problems and enhance your landscape with our expertly constructed retaining walls. We specialize in designing and building retaining walls that are both functional and aesthetically pleasing. Whether you need a wall to prevent soil erosion on a sloped property or to create a tiered garden, we have the expertise to deliver a durable and long-lasting solution. We understand the unique challenges of Oklahoma's soil conditions and drainage issues, and we use proven techniques to ensure the stability and longevity of our retaining walls. We offer a variety of materials, including natural stone, concrete blocks, and timber, to complement your existing landscape.",
+        "process": [
+          "Step 1: Site Evaluation and Soil Analysis",
+          "Step 2: Design and Engineering",
+          "Step 3: Excavation and Foundation Preparation",
+          "Step 4: Wall Construction and Backfilling"
+        ],
+        "benefits": [
+          "Erosion control",
+          "Increased usable space",
+          "Enhanced property value",
+          "Improved landscape aesthetics"
+        ],
+        "faq": [
+          {
+            "question": "What materials are best for retaining walls in Oklahoma?",
+            "answer": "Natural stone and concrete blocks are popular choices due to their durability and resistance to weathering. We can help you choose the best material based on your budget and aesthetic preferences."
+          },
+          {
+            "question": "How high can a retaining wall be built without a permit?",
+            "answer": "Oklahoma City regulations typically require a permit for retaining walls over 4 feet in height. We'll handle all necessary permit applications for your project."
+          },
+          {
+            "question": "How do you ensure proper drainage behind a retaining wall?",
+            "answer": "We install a drainage system behind the wall to prevent water buildup and hydrostatic pressure. This typically includes a perforated pipe and gravel backfill to allow water to drain freely."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-installation-repair",
+        "name": "Driveway Installation & Repair",
+        "shortDescription": "Expert driveway services in Oklahoma City, from installation to repairs.",
+        "description": "Upgrade your curb appeal and ensure a smooth ride with our driveway installation and repair services. We offer a range of driveway options, including concrete, asphalt, and pavers, to suit your style and budget. Whether you need a new driveway installed or your existing driveway repaired, we have the expertise to deliver quality results. We understand the impact of Oklahoma's weather on driveways, including freeze-thaw cycles and expansive clay soil. We use proper installation techniques and high-quality materials to ensure the durability and longevity of your driveway. We also offer repair services, such as crack filling and resurfacing, to extend the life of your existing driveway.",
+        "process": [
+          "Step 1: Site Assessment and Design",
+          "Step 2: Excavation and Base Preparation",
+          "Step 3: Material Installation",
+          "Step 4: Compaction and Finishing"
+        ],
+        "benefits": [
+          "Increased curb appeal",
+          "Improved property value",
+          "Durable and long-lasting driveway",
+          "Smooth and safe surface"
+        ],
+        "faq": [
+          {
+            "question": "What type of driveway is best for Oklahoma City?",
+            "answer": "Concrete and asphalt are both popular choices for OKC driveways. Concrete is more durable and requires less maintenance, while asphalt is more affordable and flexible."
+          },
+          {
+            "question": "How often should I seal my asphalt driveway?",
+            "answer": "We recommend sealing your asphalt driveway every 2-3 years to protect it from the elements and prevent cracking."
+          },
+          {
+            "question": "How can I prevent cracks in my concrete driveway?",
+            "answer": "Proper base preparation and the use of expansion joints can help prevent cracks in your concrete driveway. We ensure that these steps are taken during installation."
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-kitchens-grills",
+        "name": "Outdoor Kitchens & Grills",
+        "shortDescription": "Designing and building custom outdoor kitchens for OKC homeowners.",
+        "description": "Elevate your outdoor entertaining with a custom-designed outdoor kitchen. We specialize in creating functional and stylish outdoor kitchens that are tailored to your needs. From built-in grills and countertops to sinks and refrigerators, we can create the perfect outdoor cooking and entertaining space for your Oklahoma City home. We use weather-resistant materials and construction techniques to ensure that your outdoor kitchen can withstand the elements. We work with you to design a space that fits your lifestyle and budget, and we handle the entire installation process from start to finish. Imagine grilling and entertaining outdoors with friends and family in your beautiful new outdoor kitchen.",
+        "process": [
+          "Step 1: Design Consultation and Planning",
+          "Step 2: Material Selection and Appliance Choices",
+          "Step 3: Construction and Plumbing",
+          "Step 4: Appliance Installation and Finishing Touches"
+        ],
+        "benefits": [
+          "Enhanced outdoor entertaining",
+          "Increased property value",
+          "Customized design to fit your needs",
+          "Extended outdoor living season"
+        ],
+        "faq": [
+          {
+            "question": "What materials are best for outdoor kitchens in Oklahoma?",
+            "answer": "Stone, brick, and stainless steel are all durable and weather-resistant materials that are ideal for outdoor kitchens in OKC."
+          },
+          {
+            "question": "Do I need a permit for an outdoor kitchen?",
+            "answer": "In most cases, a permit is required for outdoor kitchens, especially if plumbing or electrical work is involved. We'll handle all necessary permit applications."
+          },
+          {
+            "question": "How can I protect my outdoor kitchen from the elements?",
+            "answer": "We recommend using a grill cover and storing cushions and other soft items indoors when not in use. Sealing stone and other porous materials can also help protect them from moisture."
+          }
+        ]
+      },
+      {
+        "slug": "fire-pits-fireplaces",
+        "name": "Fire Pits & Fireplaces",
+        "shortDescription": "Creating cozy outdoor spaces with custom fire pits and fireplaces in OKC.",
+        "description": "Extend your outdoor season and create a cozy gathering place with a custom-built fire pit or fireplace. We design and build fire pits and fireplaces that are both beautiful and functional. Whether you prefer a traditional wood-burning fire pit or a convenient gas-powered fireplace, we can create the perfect focal point for your outdoor space. We use durable materials and construction techniques to ensure that your fire pit or fireplace is safe and long-lasting. Imagine gathering around a warm fire on a cool Oklahoma evening, enjoying the company of friends and family. We handle the entire installation process, from design to completion, ensuring a seamless and enjoyable experience.",
+        "process": [
+          "Step 1: Design and Planning",
+          "Step 2: Site Preparation and Excavation",
+          "Step 3: Fire Pit/Fireplace Construction",
+          "Step 4: Finishing Touches and Safety Inspection"
+        ],
+        "benefits": [
+          "Extended outdoor season",
+          "Cozy gathering place",
+          "Enhanced ambiance",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "What type of fire pit is best for my backyard?",
+            "answer": "The best type of fire pit depends on your preferences and the size of your backyard. Wood-burning fire pits are more traditional, while gas-powered fire pits are more convenient and require less maintenance."
+          },
+          {
+            "question": "Do I need a permit for a fire pit or fireplace?",
+            "answer": "Local regulations vary, so it's best to check with the city of Oklahoma City to determine if a permit is required. We can assist you with the permit application process."
+          },
+          {
+            "question": "What safety precautions should I take with a fire pit or fireplace?",
+            "answer": "Always keep a fire extinguisher or garden hose nearby, and never leave a fire unattended. Ensure that the fire pit or fireplace is located away from flammable materials, such as trees and shrubs."
+          }
+        ]
+      },
+      {
+        "slug": "pergolas-pavilions",
+        "name": "Pergolas & Pavilions",
+        "shortDescription": "Adding shade and style to OKC outdoor spaces with pergolas & pavilions.",
+        "description": "Enhance your outdoor living space with a custom-built pergola or pavilion. We design and construct pergolas and pavilions that provide shade, style, and a focal point for your backyard. Whether you envision a cozy pergola over your patio or a spacious pavilion for outdoor entertaining, we can bring your vision to life. We use high-quality materials and construction techniques to ensure that your pergola or pavilion is both beautiful and durable. We consider the impact of Oklahoma's weather on these structures, using materials that can withstand the sun, wind, and rain. Imagine relaxing under the shade of your new pergola, enjoying the beauty of your Oklahoma City landscape.",
+        "process": [
+          "Step 1: Design Consultation and Planning",
+          "Step 2: Material Selection",
+          "Step 3: Site Preparation",
+          "Step 4: Construction and Finishing"
+        ],
+        "benefits": [
+          "Increased shade and comfort",
+          "Enhanced outdoor aesthetics",
+          "Increased property value",
+          "Protection from the elements"
+        ],
+        "faq": [
+          {
+            "question": "What's the difference between a pergola and a pavilion?",
+            "answer": "A pergola is an open structure with a latticed roof, while a pavilion is a more substantial structure with a solid roof. Pergolas provide partial shade, while pavilions offer more complete protection from the sun and rain."
+          },
+          {
+            "question": "What materials are best for pergolas and pavilions in Oklahoma?",
+            "answer": "Cedar, redwood, and pressure-treated lumber are all excellent choices for pergolas and pavilions in OKC. These materials are durable and resistant to rot and insects."
+          },
+          {
+            "question": "Do I need a permit for a pergola or pavilion?",
+            "answer": "Permit requirements vary depending on the size and location of the structure. It's best to check with the city of Oklahoma City to determine if a permit is required."
+          }
+        ]
+      },
+      {
+        "slug": "landscape-lighting",
+        "name": "Landscape Lighting",
+        "shortDescription": "Illuminate your Oklahoma City property with professional landscape lighting.",
+        "description": "Highlight your landscape's best features and enhance your property's safety and security with our professional landscape lighting services. We design and install custom lighting systems that are both beautiful and functional. Whether you want to illuminate your walkways, highlight your trees, or create a warm and inviting ambiance, we can create the perfect lighting scheme for your Oklahoma City home. We use energy-efficient LED lighting and durable fixtures that can withstand the elements. We understand the importance of proper lighting placement to maximize its impact and minimize light pollution. Imagine enjoying your outdoor space long after the sun goes down, thanks to our expertly designed and installed landscape lighting.",
+        "process": [
+          "Step 1: Design Consultation and Planning",
+          "Step 2: Fixture Selection and Placement",
+          "Step 3: Wiring and Installation",
+          "Step 4: System Testing and Adjustment"
+        ],
+        "benefits": [
+          "Enhanced curb appeal",
+          "Increased safety and security",
+          "Extended outdoor enjoyment",
+          "Energy efficiency"
+        ],
+        "faq": [
+          {
+            "question": "What type of landscape lighting is best for Oklahoma City?",
+            "answer": "LED lighting is a great choice for OKC due to its energy efficiency and long lifespan. We can help you choose the right fixtures and bulbs for your specific needs."
+          },
+          {
+            "question": "How much does landscape lighting cost?",
+            "answer": "The cost of landscape lighting varies depending on the size of your property and the complexity of the design. We'll provide you with a detailed estimate after the initial consultation."
+          },
+          {
+            "question": "How do I maintain my landscape lighting system?",
+            "answer": "We recommend cleaning your lighting fixtures regularly and replacing bulbs as needed. We also offer maintenance services to keep your system running smoothly."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Oklahoma City",
+        "slug": "oklahoma-city-ok",
+        "state": "OK",
+        "content": "Elkhorn Landscaping & Lawn Care is proud to offer premier hardscaping services to Oklahoma City residents and businesses. We understand the unique needs of OKC properties, from historic homes in the Paseo Arts District to modern developments in Bricktown. Our team is committed to transforming your outdoor spaces with beautiful and durable patios, walkways, retaining walls, and more.\n\nWe utilize high-quality materials and proven techniques to ensure your hardscaping project withstands Oklahoma's diverse weather conditions. Whether you're looking to create an inviting outdoor entertaining area or add functional elements to your landscape, Elkhorn Landscaping & Lawn Care is your trusted partner in Oklahoma City. We're dedicated to exceeding your expectations with exceptional craftsmanship and personalized service.",
+        "localContext": "Oklahoma City, the state capital, boasts a vibrant downtown area and family-friendly neighborhoods, all enhancing the need for beautiful outdoor living spaces.",
+        "nearbyAreas": [
+          "Edmond",
+          "Moore",
+          "Norman"
+        ]
+      },
+      {
+        "city": "Edmond",
+        "slug": "edmond-ok",
+        "state": "OK",
+        "content": "Elkhorn Landscaping & Lawn Care extends its expert hardscaping services to the thriving community of Edmond, Oklahoma. Known for its beautiful homes and well-maintained properties, Edmond is a perfect place to showcase our commitment to quality and design. We specialize in creating custom hardscaping solutions that complement your home's architecture and enhance your outdoor lifestyle.\n\nFrom elegant patios and walkways to functional retaining walls and outdoor kitchens, we offer a comprehensive range of services to meet your specific needs. We understand the importance of creating a space that is both beautiful and functional, and we work closely with our clients to ensure their vision is brought to life. Elkhorn Landscaping & Lawn Care is dedicated to providing Edmond residents with exceptional hardscaping services that add value and beauty to their homes.",
+        "localContext": "Edmond is known for its family-friendly atmosphere and beautiful residential areas, making it an ideal location for enhancing outdoor living spaces.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Guthrie",
+          "Piedmont"
+        ]
+      },
+      {
+        "city": "Moore",
+        "slug": "moore-ok",
+        "state": "OK",
+        "content": "Elkhorn Landscaping & Lawn Care is dedicated to providing exceptional hardscaping services to the residents of Moore, Oklahoma. Understanding the community's resilience and desire for beautiful, functional outdoor spaces, we offer a wide range of services to enhance your property. From durable patios designed for family gatherings to retaining walls that protect your landscape, we're here to help.\n\nWe prioritize quality craftsmanship and use only the best materials to ensure your hardscaping project stands the test of time. Elkhorn Landscaping & Lawn Care is committed to providing Moore residents with reliable and affordable hardscaping solutions that meet their specific needs and exceed their expectations. Let us help you create the outdoor space of your dreams.",
+        "localContext": "Moore is a close-knit community with a strong sense of pride, where creating inviting and safe outdoor spaces is highly valued.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Norman",
+          "Newcastle"
+        ]
+      },
+      {
+        "city": "Norman",
+        "slug": "norman-ok",
+        "state": "OK",
+        "content": "Elkhorn Landscaping & Lawn Care proudly serves the vibrant city of Norman, Oklahoma, offering expert hardscaping services to homeowners and businesses alike. As the home of the University of Oklahoma, Norman boasts a diverse community with unique landscaping needs. We're committed to providing custom solutions that enhance your property's value and appeal.\n\nWhether you're looking to create a relaxing outdoor oasis or add functional elements to your landscape, our team has the expertise to bring your vision to life. Elkhorn Landscaping & Lawn Care is dedicated to providing Norman residents with exceptional hardscaping services that are both beautiful and durable. We strive to exceed your expectations with our commitment to quality and customer satisfaction.",
+        "localContext": "Norman, home to the University of Oklahoma, has a mix of residential and commercial properties with a need for both aesthetic and functional outdoor spaces.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Moore",
+          "Noble"
+        ]
+      },
+      {
+        "city": "Yukon",
+        "slug": "yukon-ok",
+        "state": "OK",
+        "content": "Elkhorn Landscaping & Lawn Care is pleased to offer its professional hardscaping services to the growing community of Yukon, Oklahoma. Known for its family-friendly atmosphere and strong community spirit, Yukon is a great place to invest in your home's outdoor spaces. We specialize in creating custom hardscaping solutions that enhance your property's value and curb appeal.\n\nFrom stylish patios and walkways to durable retaining walls and outdoor living areas, we offer a comprehensive range of services to meet your specific needs. We use only the highest quality materials and employ skilled craftsmen to ensure your project is completed to the highest standards. Elkhorn Landscaping & Lawn Care is committed to providing Yukon residents with exceptional hardscaping services that transform their outdoor spaces into beautiful and functional extensions of their homes.",
+        "localContext": "Yukon's residential growth makes it a prime location for homeowners looking to enhance their properties with quality hardscaping.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Mustang",
+          "Piedmont"
+        ]
+      },
+      {
+        "city": "Mustang",
+        "slug": "mustang-ok",
+        "state": "OK",
+        "content": "Elkhorn Landscaping & Lawn Care proudly extends its hardscaping expertise to Mustang, Oklahoma, delivering exceptional services to enhance the beauty and functionality of your outdoor spaces. We understand the unique needs of Mustang homeowners and offer customized solutions tailored to your specific requirements.\n\nWhether you envision a stunning patio for entertaining, a durable walkway to enhance accessibility, or a retaining wall to prevent erosion, our team is equipped to bring your vision to life. We are dedicated to using high-quality materials and employing skilled craftsmanship to ensure lasting results. Elkhorn Landscaping & Lawn Care is committed to providing Mustang residents with reliable and affordable hardscaping services that exceed expectations.",
+        "localContext": "Mustang's continued growth in family housing creates a demand for outdoor living spaces with hardscaping features.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Yukon",
+          "Union City"
+        ]
+      },
+      {
+        "city": "Piedmont",
+        "slug": "piedmont-ok",
+        "state": "OK",
+        "content": "Elkhorn Landscaping & Lawn Care is thrilled to provide top-notch hardscaping services to the residents of Piedmont, Oklahoma. Known for its beautiful rural landscapes and growing community, Piedmont offers a unique setting for creating stunning outdoor spaces. We specialize in designing and installing hardscaping features that complement the natural beauty of the area.\n\nFrom rustic patios and walkways to functional retaining walls and outdoor kitchens, we offer a wide range of services to meet your specific needs. We use only the highest quality materials and employ skilled craftsmen to ensure your project is completed to the highest standards. Elkhorn Landscaping & Lawn Care is committed to providing Piedmont residents with exceptional hardscaping services that enhance their properties and create lasting value.",
+        "localContext": "Piedmont's rural charm and growing residential areas make it a desirable location for custom hardscaping projects.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Yukon",
+          "Edmond"
+        ]
+      },
+      {
+        "city": "Newcastle",
+        "slug": "newcastle-ok",
+        "state": "OK",
+        "content": "Elkhorn Landscaping & Lawn Care is proud to offer professional hardscaping services to the residents of Newcastle, Oklahoma. Understanding the community's desire for well-maintained and attractive properties, we provide a range of solutions to enhance your outdoor living spaces. From patios and walkways to retaining walls and fire pits, we can transform your yard into a beautiful and functional extension of your home.\n\nWe are committed to using high-quality materials and employing skilled craftsmen to ensure your project is completed to the highest standards. Elkhorn Landscaping & Lawn Care is dedicated to providing Newcastle residents with exceptional hardscaping services that add value and beauty to their homes. We work closely with each client to understand their unique needs and create custom solutions that exceed their expectations.",
+        "localContext": "Newcastle's growing residential areas make it a prime location for homeowners looking to enhance their properties with quality hardscaping.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Moore",
+          "Blanchard"
+        ]
+      },
+      {
+        "city": "Choctaw",
+        "slug": "choctaw-ok",
+        "state": "OK",
+        "content": "Elkhorn Landscaping & Lawn Care is delighted to extend our expert hardscaping services to the community of Choctaw, Oklahoma. Recognizing the value placed on well-maintained properties in Choctaw, we offer a comprehensive range of hardscaping solutions designed to enhance your outdoor living spaces. Whether you're looking to create an inviting patio for entertaining, a durable walkway for easy access, or a retaining wall to improve your landscape's functionality, we're here to help.\n\nWe are committed to using only the highest quality materials and employing skilled craftsmen to ensure the lasting beauty and durability of your hardscaping project. Elkhorn Landscaping & Lawn Care is dedicated to providing Choctaw residents with reliable and affordable hardscaping services that transform their outdoor spaces.",
+        "localContext": "Choctaw's community focus and emphasis on attractive homes make it a great place to enhance your property with hardscaping.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Midwest City",
+          "Harrah"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Patio Installation",
+        "text": "Elkhorn Landscaping did an amazing job on our new patio! The design process was smooth, and the crew was professional and efficient. They were very careful to protect our existing landscaping and cleaned up thoroughly each day. We are thrilled with the final result and highly recommend them!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Retaining Wall Construction",
+        "text": "We hired Elkhorn to build a retaining wall in our backyard to address some serious erosion issues. They did a great job designing a wall that not only solved the problem but also looks fantastic. There were a couple of minor delays due to weather, but they communicated well throughout the process.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Driveway Repair",
+        "text": "Our driveway was cracked and uneven, and Elkhorn Landscaping was able to repair it quickly and affordably. The team was professional and courteous, and they did a great job matching the existing concrete. Highly recommend!",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "service": "Outdoor Kitchen Installation",
+        "text": "Elkhorn Landscaping turned our backyard into an outdoor oasis with a beautiful custom outdoor kitchen. The design process was collaborative, and the finished product exceeded our expectations. We love spending time outdoors now, thanks to Elkhorn!",
+        "date": "2024-10-25"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Fire Pit Installation",
+        "text": "We had Elkhorn install a gas fire pit in our backyard, and it's been a game-changer. It's the perfect spot for gathering with friends and family on cool evenings. The installation was professional and the team was very responsive to our questions.",
+        "date": "2024-11-12"
+      },
+      {
+        "name": "Brian S.",
+        "rating": 5,
+        "service": "Pergola Construction",
+        "text": "Elkhorn built a beautiful pergola over our patio, and it's made a huge difference in how much we use our outdoor space. The pergola provides shade and creates a more inviting atmosphere. The team was professional and detail-oriented, and we couldn't be happier with the results.",
+        "date": "2024-12-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "OKC Hardscaping | Elkhorn Landscaping",
+        "description": "Oklahoma City's hardscaping experts. Patios, retaining walls, driveways & more. Free consultations. Call +14053086032!"
+      },
+      "about": {
+        "title": "About Elkhorn Landscaping | OKC",
+        "description": "Learn about Elkhorn Landscaping's commitment to quality hardscaping in Oklahoma City. Family-owned, local experts."
+      },
+      "services": {
+        "title": "Hardscaping Services | Elkhorn OKC",
+        "description": "Complete hardscaping solutions: patios, retaining walls, driveways, outdoor kitchens. Serving Oklahoma City & area."
+      },
+      "contact": {
+        "title": "Contact Elkhorn Landscaping | OKC",
+        "description": "Get a free quote for your hardscaping project in Oklahoma City. Call +14053086032 or fill out our online form."
+      },
+      "reviews": {
+        "title": "Elkhorn Landscaping Reviews | OKC",
+        "description": "Read what our Oklahoma City customers are saying about Elkhorn Landscaping's hardscaping services. See our 5-star reviews!"
+      },
+      "service-areas": {
+        "title": "Service Areas | Elkhorn Landscaping",
+        "description": "Elkhorn Landscaping provides hardscaping services in Oklahoma City and surrounding areas. See our service area map."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "patio-design-installation": "/images/service-patio-design-installation.webp",
+      "retaining-wall-construction": "/images/service-retaining-wall-construction.webp",
+      "driveway-installation-repair": "/images/service-driveway-installation-repair.webp",
+      "outdoor-kitchens-grills": "/images/service-outdoor-kitchens-grills.webp",
+      "fire-pits-fireplaces": "/images/service-fire-pits-fireplaces.webp",
+      "pergolas-pavilions": "/images/service-pergolas-pavilions.webp",
+      "landscape-lighting": "/images/service-landscape-lighting.webp"
+    },
+    "servicesResponsive": {
+      "patio-design-installation": {
+        "src": "/images/service-patio-design-installation.webp",
+        "srcset": "/images/service-patio-design-installation-400w.webp 400w, /images/service-patio-design-installation-800w.webp 800w, /images/service-patio-design-installation-1200w.webp 1200w, /images/service-patio-design-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "retaining-wall-construction": {
+        "src": "/images/service-retaining-wall-construction.webp",
+        "srcset": "/images/service-retaining-wall-construction-400w.webp 400w, /images/service-retaining-wall-construction-800w.webp 800w, /images/service-retaining-wall-construction-1200w.webp 1200w, /images/service-retaining-wall-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-installation-repair": {
+        "src": "/images/service-driveway-installation-repair.webp",
+        "srcset": "/images/service-driveway-installation-repair-400w.webp 400w, /images/service-driveway-installation-repair-800w.webp 800w, /images/service-driveway-installation-repair-1200w.webp 1200w, /images/service-driveway-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outdoor-kitchens-grills": {
+        "src": "/images/service-outdoor-kitchens-grills.webp",
+        "srcset": "/images/service-outdoor-kitchens-grills-400w.webp 400w, /images/service-outdoor-kitchens-grills-800w.webp 800w, /images/service-outdoor-kitchens-grills-1200w.webp 1200w, /images/service-outdoor-kitchens-grills.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fire-pits-fireplaces": {
+        "src": "/images/service-fire-pits-fireplaces.webp",
+        "srcset": "/images/service-fire-pits-fireplaces-400w.webp 400w, /images/service-fire-pits-fireplaces-800w.webp 800w, /images/service-fire-pits-fireplaces-1200w.webp 1200w, /images/service-fire-pits-fireplaces.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "pergolas-pavilions": {
+        "src": "/images/service-pergolas-pavilions.webp",
+        "srcset": "/images/service-pergolas-pavilions-400w.webp 400w, /images/service-pergolas-pavilions-800w.webp 800w, /images/service-pergolas-pavilions-1200w.webp 1200w, /images/service-pergolas-pavilions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "landscape-lighting": {
+        "src": "/images/service-landscape-lighting.webp",
+        "srcset": "/images/service-landscape-lighting-400w.webp 400w, /images/service-landscape-lighting-800w.webp 800w, /images/service-landscape-lighting-1200w.webp 1200w, /images/service-landscape-lighting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
